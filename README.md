@@ -3,8 +3,7 @@
 데이터과학미니프로젝트 중간 과제 · 작성자: 안서현
 
 ## 1. 배포 주소
-<!-- TODO: 배포한 뒤 실제 주소로 바꿈 -->
-https://여기에-배포-주소.streamlit.app
+https://teamformer-seohyun.streamlit.app
 
 ## 2. PRD와 구현 계획의 위치
 - `docs/PRD.md`
