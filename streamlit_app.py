@@ -29,9 +29,9 @@ def cfg(name, default=""):
 
 def ai_models():
     return [
-        cfg("MODEL_1", "google/gemma-4-31b-it:free"),
-        cfg("MODEL_2", "nvidia/nemotron-3-super-120b-a12b:free"),
-        cfg("MODEL_3", "nvidia/nemotron-3-ultra-550b-a55b:free"),
+        cfg("MODEL_1", "nvidia/nemotron-3-ultra-550b-a55b:free"),
+        cfg("MODEL_2", "google/gemma-4-31b-it:free"),
+        cfg("MODEL_3", "nvidia/nemotron-3.5-super-vl:free"),
     ]
 
 

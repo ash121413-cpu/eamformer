@@ -23,10 +23,9 @@ https://teamformer-seohyun.streamlit.app
 | DB 일시정지 막기 | 어려운 해결 | GitHub Actions 예약 실행(`.github/workflows/keep-db-awake.yml`)으로 매일 DB에 질의 |
 
 ## 4. 쓴 모델 3개
-<!-- TODO: 실제로 Secrets에 넣은 모델 이름으로 맞춤 -->
-- 1차 `google/gemma-4-31b-it:free`
-- 2차 `nvidia/nemotron-3-super-120b-a12b:free`
-- 3차 `nvidia/nemotron-3-ultra-550b-a55b:free`
+- 1차 `nvidia/nemotron-3-ultra-550b-a55b:free`
+- 2차 `google/gemma-4-31b-it:free`
+- 3차 `nvidia/nemotron-3.5-super-vl:free`
 
 ## 5. 오픈라우터 AI 모델 호출 실패 사례
 <!-- TODO: 직접 겪은 사례로 채움. 관리자 화면 아래 "AI 호출 기록"을 펼쳐 캡처하면 근거가 됨 -->
